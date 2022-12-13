@@ -1,4 +1,4 @@
-The proceedure came for this link
+The proceedure came from this link
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform
 
 do the following
