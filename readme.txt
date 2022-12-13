@@ -32,5 +32,5 @@ terraform plan -destroy -out main.destroy.tfplan
 
 
 #Modify 12-13-2022
-#updated .gitignore 
+#updated .gitignore include destroy.tfplan 
 Mark Villanueva
