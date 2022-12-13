@@ -6,6 +6,9 @@
 *.tfstate
 *.tfstate.*
 
+id_rsa
+*.id_rsa
+
 # Crash log files
 crash.log
 crash.*.log
