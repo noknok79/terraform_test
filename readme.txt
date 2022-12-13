@@ -20,12 +20,11 @@ Pre-requisites:
 
 set the your chosen tenant and subscription
 
-to set specific subscription to use
-az account set --subscription <subscription_id>
-
 to set specific tennant
 az login --tenant <myTenantID>
 
+to set specific subscription to use
+az account set --subscription <subscription_id>
 
 if you are finish and you want to delete/destroy the created resources
 terraform plan -destroy -out main.destroy.tfplan
