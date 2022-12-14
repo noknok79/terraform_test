@@ -1,3 +1,6 @@
+The procedure below should take effect without error. Your system must be running on a Powershell or Linux environment. The terraform application and Azure CLI must already be installed before being able to do the terraform deployment procedure to run.
+
+
 The proceedure came from this link
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform
 
