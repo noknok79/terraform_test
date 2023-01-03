@@ -4,6 +4,7 @@ The procedure below should take effect without error. Your system must be runnin
 The proceedure came from this link
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform
 
+do the following...
 
 do the following...
 
